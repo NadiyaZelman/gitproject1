@@ -17,4 +17,4 @@ git push -u origin master
 Git Collaboration with GitHub
 
 -git push
--git 
+-git set upstream origin master
