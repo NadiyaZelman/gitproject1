@@ -17,4 +17,6 @@ git push -u origin master
 Git Collaboration with GitHub
 
 -git push
--git set upstream origin master
+-git set upstream origin master- Changes from GitHub
+
+-Changes from my PC before getting GitHub changes.
